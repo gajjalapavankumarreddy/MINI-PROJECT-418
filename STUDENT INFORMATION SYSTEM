@@ -1,4 +1,6 @@
-#include <stdio.h>
+ //Student Information System (using Structures)//
+//This project will help you practice using structures to store student information (like name, roll number, marks), and perform basic operations like adding, displaying, and searching.//
+
 #include <string.h>
 struct Student {
     int roll_no;
